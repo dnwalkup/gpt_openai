@@ -28,6 +28,8 @@ That's it! The project should now be running on your local machine.
 
 Standalone command-line-interface interaction with GPT including effective chat history/content.
 
+There are a variety of ways to add your OpenAI API key. For the current implementation used in the code, a keys.py file with two vars for 'oai_organization' and 'oai_api_key' are used. This file is not included in the repo for obvious reasons, you must create your own.
+
 ## Contributing
 
 Guidelines for contributing to the project. Include information on how to submit bug reports, feature requests, and pull requests.
