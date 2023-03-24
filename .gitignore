@@ -3,3 +3,4 @@ venv_gpt_oai/
 test.mp3
 keys.py
 desktop.ini
+.DS_Store
